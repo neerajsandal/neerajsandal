@@ -8,7 +8,7 @@
 - 📫 How to reach me **neerajsandal379@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="right">
+<p align="left">
 <a href="https://linkedin.com/in/neeraj-sandal-0b2987207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj-sandal-0b2987207" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/neerajsandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neerajsandal" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/neerajsam1ws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="neerajsam1ws" height="30" width="40" /></a>
@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajsandal&show_icons=true&locale=en&layout=compact" alt="neerajsandal" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=neerajsandal&show_icons=true&locale=en" alt="neerajsandal" /></p>
+<p style="margin-top : 5px" >&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=neerajsandal&show_icons=true&locale=en" alt="neerajsandal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajsandal&" alt="neerajsandal" /></p>
 
