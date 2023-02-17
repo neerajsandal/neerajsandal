@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj Sandal</h1>
-<h3 align="center">Pursuing Undergraduate at Thapar University || Computer Engineer || Programmer ||  passionate frontend developer </h3>
+<h3 align="center">Pursuing Undergraduate at Thapar University || Computer Engineer || Programmer ||  Passionate Web developer </h3>
 
 <p align="left"> <img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="neerajsandal" /> </p>
 
